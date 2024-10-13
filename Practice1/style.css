@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+ 
+p{
+    opacity: 0.8;
+}
+body{
+    width: 900px;
+    background-color: bisque;
+    margin: 30px auto;
+    border-radius: 25px;
+}
+.main-body{
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    padding: 30px;
+    border-radius: 25px;
+    
+}
+
+li{
+ 
+  padding-left: 30px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+}
+img{
+    width: 100%;
+}
+.text-color{
+    color:brown;
+    font-weight: bold;
+    
+}
+.preparation{
+    background-color: lavender;
+    padding: 30px;
+    margin: 20px 0;
+    border-radius: 25px;
+}
+
+.preparation h2{
+    color: purple;
+}
+.preparation ul{
+    padding: 20px;
+}
+
+.ingredients{
+    padding: 0 30px;
+    margin: 0 0 20px 0;
+    border-radius: 25px;
+}
+.ingredients h2{
+    color:brown;
+}
+.ingredients ul{
+    padding: 20px;
+}
+
+.instructions{
+    padding: 0 30px;
+    margin: 0 0 20px 0;
+    border-radius: 25px;
+}
+.instructions h2{
+    color:brown;
+}
+.instructions ol{
+    padding: 20px;
+}
+
+.nutritions{
+    padding: 0 30px;
+    margin: 0 0 20px 0;
+    border-radius: 25px;
+}
+.nutritions h2{
+    color:brown;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px;
+    
+  }
+  
+  tr{
+    opacity: 0.8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    height: 40px;
+  }
+  td{
+    padding-left: 30px;
+  }
