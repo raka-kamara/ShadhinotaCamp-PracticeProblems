@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.main{
+    margin: 30px auto;
+    width: 400px;
+    height: 600px;
+    background-color:floralwhite;
+    border-radius: 25px;
+}
+
+img{
+    width: 100%;
+    height: 350px;
+    border-top:0ch;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+.text-div{
+    padding: 20px;
+}
+.button1{
+    padding: 5px;
+    background-color: #e6ffe6;
+    color: green;
+    border: 1px solid green;
+    border-radius: 25px;
+    width: 70px;
+    font-size: medium;
+    margin: 20px 0;
+}
+
+p{
+    opacity: 0.6;
+    margin: 20px 0;
+    font-size: large;
+}
+.read{
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+}
